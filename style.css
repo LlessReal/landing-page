@@ -115,7 +115,9 @@ footer {
     border: solid white;
     padding: 10px 20px;
     flex: 1 0 auto;
+    cursor: pointer;
 }
+
 .ctahead {
     flex: 1 1 auto;
 }
