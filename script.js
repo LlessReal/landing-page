@@ -3,5 +3,4 @@ var fart = new Audio("fartrever.mp3")
 
 function startmusic() {
     fart.play()
-
 }

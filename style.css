@@ -43,7 +43,6 @@ button, .calltoaction {
 }
 img { flex: 1 0 auto; width: 300px; height: 200px; }
 
-
 main { display: flex; flex-direction: column; flex: 6; padding: 0 200px;}
 .section1 {
     padding: 0 0 80px 0;
@@ -119,7 +118,7 @@ footer {
 }
 
 .ctahead {
-    flex: 1 1 auto;
+    /* flex: 1 1 auto;*/ 
 }
 
 
